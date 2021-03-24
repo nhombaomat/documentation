@@ -2774,7 +2774,6 @@ a:focus {
 	max-width: 100%;
 	/* min-height: 55px; */
 	display: flex;
-	margin-bottom: 20px;
 	padding-right: 15px;
 	padding-left: 0px;
 }
@@ -2784,7 +2783,6 @@ a:focus {
 
 	display: inline-block;
 	padding-bottom: 10px;
-	border-bottom: 1px solid #a4bbc1;
 	font-family: "Open Sans", sans-serif;
 	font-size: 17px;
 	color: rgb(18, 124, 187);

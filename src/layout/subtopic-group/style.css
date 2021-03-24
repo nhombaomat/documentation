@@ -5,14 +5,13 @@
 }
 
 .subtopic-container > p {
-  padding-left: 15px;
-  padding-bottom: 10px;
+  padding: 0 15px 10px 15px;
   border-bottom: 1px solid #a4bbc1;
   font-size: 1em;
 }
 .subtopic-container > h3 {
   font-family: "Open Sans", sans-serif;
-  font-size: 28px;
+  font-size: 1.4em;
   padding-left: 15px;
 }
 .col-md-6.topic-groups {
@@ -40,9 +39,9 @@
   font-weight: 300;
   margin: 0px !important;
 }
-.subtopic-lists > h4 {
+.subtopic-lists > h3 {
   font-family: "Open Sans", sans-serif;
-  font-size: 22px;
+  font-size: 1.2em;
 }
 .topic-docs .fa {
   padding-right: 5px;
