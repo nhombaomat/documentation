@@ -23,4 +23,4 @@ We give you a guided path for most sites. If you can’t get your site on the pl
 
 ## See Also
 
-- [The Quickstart Guide to Migrating a WordPress Site](https://pantheon.io/resources/quickstart-guide-migrating-wordpress-site)
+- [Migrate Existing WordPress Sites](/migrate#migrate-existing-sites)
