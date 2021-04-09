@@ -26,8 +26,6 @@ Before you continue, confirm that your site meets the following:
 
   </Accordion>
 
-  - The site can not be set to use an empty Upstream.
-
 - The site does not use a nested docroot.
 
    - The process outlined in this guide will not work if the site repository has a `/web` folder at its root.
